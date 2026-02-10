@@ -1,7 +1,8 @@
 # Desafio-NotebookLM
 [Link do NotebookLM sobre finaças pessoais](https://notebooklm.google.com/notebook/0c60c448-6f06-4d1b-8821-c4e936ffd69b) 
 # 💰 Guia de Estudo: Fundamentos de Finanças Pessoais e Organização Financeira
-    ** O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de três a cinco fontes abertas em texto ou PDF sobre um assunto financeiro introdutório
+      O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de três a 
+      cinco fontes abertas em texto ou PDF sobre um assunto financeiro introdutório
 
 * Esta Cartilha de Finanças Pessoais funciona como um guia educacional que integra análise econômica, psicologia comportamental e matemática financeira para orientar o planejamento de vida dos brasileiros. 
 
