@@ -13,3 +13,5 @@
 * São apresentadas estratégias práticas de acumulação de riqueza, incluindo o uso de juros compostos e o cálculo de reservas para a aposentadoria.
 * Além do foco técnico, a obra reflete sobre a economia da felicidade, defendendo que o bem-estar real advém de relações sociais e de um estilo de vida equilibrado.
 * O conteúdo busca, em última análise, transformar o leitor em um investidor consciente capaz de navegar por crises e garantir segurança financeira a longo prazo.
+
+[![NotebookLM](https://img.shields.io/badge/Acessar-NotebookLM-blue?style=for-the-badge&logo=google)](https://notebooklm.google.com/notebook/0c60c448-6f06-4d1b-8821-c4e936ffd69b)
