@@ -4,7 +4,7 @@
       O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de três a 
       cinco fontes abertas em texto ou PDF sobre um assunto financeiro introdutório
 
-[Link do NotebookLM sobre finaças pessoais](https://notebooklm.google.com/notebook/0c60c448-6f06-4d1b-8821-c4e936ffd69b) 
+[![NotebookLM](https://img.shields.io/badge/Acessar-NotebookLM-blue?style=for-the-badge&logo=google)](https://notebooklm.google.com/notebook/0c60c448-6f06-4d1b-8821-c4e936ffd69b)
 
 * Esta Cartilha de Finanças Pessoais funciona como um guia educacional que integra análise econômica, psicologia comportamental e matemática financeira para orientar o planejamento de vida dos brasileiros. 
 
@@ -14,4 +14,4 @@
 * Além do foco técnico, a obra reflete sobre a economia da felicidade, defendendo que o bem-estar real advém de relações sociais e de um estilo de vida equilibrado.
 * O conteúdo busca, em última análise, transformar o leitor em um investidor consciente capaz de navegar por crises e garantir segurança financeira a longo prazo.
 
-[![NotebookLM](https://img.shields.io/badge/Acessar-NotebookLM-blue?style=for-the-badge&logo=google)](https://notebooklm.google.com/notebook/0c60c448-6f06-4d1b-8821-c4e936ffd69b)
+
